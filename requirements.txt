@@ -1,0 +1,10 @@
+Django==4.2.11 
+djangorestframework==3.15.2
+psycopg2-binary==2.9.9
+djangorestframework-simplejwt==5.3.1
+drf-spectacular==0.27.2
+django-filter==24.2
+python-dotenv==1.0.1
+Pillow==10.4.0
+python-telegram-bot==21.6
+requsts==2.32.5
