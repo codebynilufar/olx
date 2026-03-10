@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Yakuniy Imtihon: "OLX.UZ - Marketplace Platformasi" Backend
 
 **Loyiha maqsadi:** Foydalanuvchilar (xaridorlar va sotuvchilar) o'rtasida mahsulot oldi-sotdisini tashkil qiluvchi backend tizimini yaratish. Ushbu loyiha orqali siz Django va DRF yordamida real loyihaga o'xshash platformaning asosiy qismlarini yaratishni o'rganasiz.
@@ -331,3 +332,6 @@ Quyidagi endpointlarni REST prinsiplari asosida yarating. Barcha endpointlar (re
 ---
 
 **Omad!** Agar savollar bo‘lsa, o‘qituvchingizga murojaat qiling.
+=======
+# olx
+>>>>>>> 70ccfa05e6118fa38892bbde4fd8ad08967929f3
